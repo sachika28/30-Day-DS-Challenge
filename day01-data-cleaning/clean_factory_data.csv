@@ -1,0 +1,301 @@
+Batch_ID,Date,Factory,Ingredient,Cp,Cpk,Pp,Ppk,Dosing_Accuracy_%,Cpk_outlier,Dosing_Accuracy_%_outlier
+B1168,2024-07-30,Haridwar PC,Noodles,1.307,0.846,1.728,1.419,101.55,False,False
+B1092,,Haridwar PC,PAS,1.084,4.678,0.789,0.961,98.19,True,False
+B1022,,Haridwar PC,Noodles,1.14,0.835,1.578,1.252,98.47,False,False
+B1106,2024-10-18,Pondicherry PC,Noodles,1.011,1.164,1.325,1.033,99.54,False,False
+B1191,,Pondicherry PC,Noodles,1.307,1.172,1.121,1.122,99.54,False,False
+B1122,,Sumerpur PC,Frisis,1.374,1.15,1.319,0.914,99.85,False,False
+B1073,,Nepal PC,Frisis,1.398,1.083,1.297,1.105,98.41,False,False
+B1146,,Haridwar PC,Noodles,1.098,1.311,1.26,1.224,101.1,False,False
+B1100,,LLPL,Perfume,1.048,0.89,0.863,1.049,99.54,False,False
+B1054,,Nepal PC,Frisis,1.542,0.906,1.266,1.355,95.81,False,False
+B1160,,Khamgaon,Perfume,1.338,1.168,1.625,1.24,98.63,False,False
+B1159,,Khamgaon,Perfume,1.167,1.206,1.292,1.459,101.93,False,False
+B1001,2024-01-07,Haridwar PC,Noodles,1.307,1.103,1.245,1.09,99.28,False,False
+B1051,,Haridwar PC,Noodles,1.307,1.184,1.109,1.039,99.54,False,False
+B1181,,LLPL,Perfume,1.894,1.303,1.162,1.049,101.87,False,False
+B1075,,Nepal PC,PAS,1.547,1.225,1.151,0.961,99.91,False,False
+B1104,2024-07-31,Khamgaon,Frisis,0.878,1.297,1.18,1.099,99.77,False,False
+B1011,2024-10-01,Nepal PC,Perfume,1.436,1.007,1.157,1.098,96.63,False,False
+B1103,,Haridwar PC,Frisis,1.307,1.115,1.358,0.866,99.75,False,False
+B1105,,Sumerpur PC,Perfume,1.335,1.564,1.329,1.088,99.04,True,False
+B1184,,Khamgaon,PAS,1.499,0.872,1.304,1.607,97.08,False,False
+B1025,2024-05-22,Nepal PC,PAS,0.869,0.988,1.047,1.113,98.14,False,False
+B1115,,LLPL,Noodles,1.2,1.105,1.35,1.157,97.87,False,False
+B1033,,Nepal PC,Frisis,1.312,1.01,1.375,0.836,99.29,False,False
+B1160,,Sumerpur PC,Noodles,1.472,1.105,1.264,1.138,99.34,False,False
+B1002,,Sumerpur PC,Frisis,1.041,1.363,1.26,1.084,99.16,False,False
+B1102,,Sumerpur PC,Perfume,1.185,1.311,1.319,1.049,99.54,False,False
+B1196,,Sumerpur PC,Perfume,1.036,1.265,1.2610000000000001,0.806,99.81,False,False
+B1199,,LLPL,Noodles,1.239,1.105,1.099,0.872,98.28,False,False
+B1161,,Haridwar PC,Noodles,1.507,1.103,1.338,1.049,101.07,False,False
+B1072,,Khamgaon,Noodles,1.216,1.036,1.314,0.728,100.92,False,False
+B1182,,Haridwar PC,Perfume,1.595,1.105,1.156,0.707,101.53,False,False
+B1002,,Sumerpur PC,Frisis,1.209,1.105,1.285,0.688,99.54,False,False
+B1056,,LLPL,PAS,1.49,1.156,1.271,1.049,99.41,False,False
+B1035,,Pondicherry PC,PAS,1.479,1.4,1.265,1.376,99.54,False,False
+B1122,,LLPL,Frisis,1.232,1.29,1.2,1.049,101.45,False,False
+B1095,2024-02-09,Sumerpur PC,Perfume,1.143,0.662,1.42,0.852,99.54,True,False
+B1083,2024-05-23,Nepal PC,PAS,1.489,0.817,1.499,0.616,96.87,False,False
+B1022,2024-12-08,Haridwar PC,Perfume,1.324,0.923,1.307,1.083,99.54,False,False
+B1121,,Khamgaon,Perfume,0.615,1.105,1.158,0.989,97.21,False,False
+B1082,,Nepal PC,Perfume,1.077,1.033,1.562,1.076,100.32,False,False
+B1097,,LLPL,Frisis,0.947,1.393,1.205,1.064,99.54,False,False
+B1023,2024-01-08,Haridwar PC,Perfume,1.211,1.29,1.541,1.122,100.37,False,False
+B1174,2024-02-13,Haridwar PC,PAS,1.018,0.995,1.348,1.049,97.67,False,False
+B1164,,Sumerpur PC,Perfume,0.822,1.288,1.256,1.075,98.96,False,False
+B1043,,Sumerpur PC,PAS,1.307,1.022,1.116,1.329,97.54,False,False
+B1109,,Pondicherry PC,Perfume,1.307,0.935,1.712,1.049,98.5,False,False
+B1195,,Pondicherry PC,Noodles,0.967,0.733,1.352,0.829,96.27,False,False
+B1198,2024-02-06,LLPL,Perfume,1.307,1.122,1.026,0.851,99.45,False,False
+B1076,,Khamgaon,PAS,1.342,1.118,1.348,1.366,99.32,False,False
+B1134,,Pondicherry PC,Frisis,1.058,1.183,1.112,1.037,98.65,False,False
+B1099,2024-10-01,Khamgaon,Noodles,0.993,1.432,1.43,1.009,98.43,False,False
+B1103,2024-01-19,Nepal PC,Frisis,1.278,1.064,1.104,1.089,97.91,False,False
+B1142,2024-01-25,Sumerpur PC,Frisis,1.363,0.872,0.982,1.427,99.78,False,False
+B1074,,Sumerpur PC,Frisis,1.164,1.294,1.244,0.983,101.52,False,False
+B1019,,Haridwar PC,PAS,1.436,1.317,1.08,1.071,96.88,False,False
+B1132,2024-03-17,LLPL,Frisis,1.533,0.948,1.137,0.85,99.92,False,False
+B1148,,Sumerpur PC,Frisis,1.204,1.193,1.162,1.283,100.35,False,False
+B1173,,LLPL,Frisis,1.488,1.258,1.068,1.331,97.4,False,False
+B1062,,Sumerpur PC,Frisis,0.72,0.842,0.991,0.983,102.0,False,False
+B1021,,LLPL,Perfume,1.06,1.376,1.431,0.929,99.96,False,False
+B1049,,Khamgaon,PAS,1.157,0.991,1.243,0.941,98.43,False,False
+B1172,,Haridwar PC,Frisis,1.338,1.173,1.2610000000000001,1.531,99.41,False,False
+B1179,,Nepal PC,Perfume,1.395,1.086,1.243,1.196,99.58,False,False
+B1081,2024-10-04,Pondicherry PC,Frisis,1.307,1.105,1.246,0.863,97.56,False,False
+B1074,,Pondicherry PC,PAS,1.602,1.037,1.426,1.202,99.54,False,False
+B1054,2024-05-18,Khamgaon,PAS,1.307,1.105,0.72,1.268,101.37,False,False
+B1154,,Khamgaon,PAS,0.94,1.135,1.332,1.013,98.89,False,False
+B1042,,Khamgaon,Frisis,1.373,1.157,1.091,1.158,97.58,False,False
+B1056,,Pondicherry PC,Perfume,0.802,1.175,1.496,0.808,102.01,False,False
+B1199,2024-12-22,Khamgaon,PAS,1.307,1.011,1.155,0.887,98.66,False,False
+B1059,2024-11-18,Khamgaon,Frisis,0.708,1.03,1.29,1.049,97.35,False,False
+B1145,,Haridwar PC,PAS,1.477,1.105,1.395,1.142,100.41,False,False
+B1150,,Haridwar PC,Perfume,1.945,0.939,1.578,1.386,98.67,False,False
+B1163,,Sumerpur PC,Frisis,1.533,1.275,1.2610000000000001,0.677,98.15,False,False
+B1125,,Pondicherry PC,Frisis,1.269,1.248,1.16,1.049,100.67,False,False
+B1023,,LLPL,Frisis,1.15,1.042,1.13,1.42,99.48,False,False
+B1089,,Khamgaon,Perfume,1.09,0.98,0.825,0.945,98.36,False,False
+B1030,2024-11-30,Haridwar PC,Perfume,1.307,1.204,1.2610000000000001,1.219,101.33,False,False
+B1041,,Haridwar PC,Frisis,1.543,1.229,1.524,0.857,100.53,False,False
+B1070,2024-06-24,Haridwar PC,PAS,1.577,0.892,1.373,0.839,98.56,False,False
+B1167,,Khamgaon,Perfume,1.442,0.925,1.17,1.152,101.37,False,False
+B1114,,Haridwar PC,PAS,1.628,1.056,1.021,1.027,100.45,False,False
+B1096,,LLPL,Perfume,1.153,4.88,1.464,0.933,100.78,True,False
+B1080,2024-06-09,Haridwar PC,Noodles,1.22,1.183,1.137,0.886,99.54,False,False
+B1107,2024-06-23,Khamgaon,Frisis,1.295,1.042,1.315,0.885,100.28,False,False
+B1029,,Haridwar PC,Noodles,1.226,1.375,1.22,1.075,99.54,False,False
+B1037,,Nepal PC,Noodles,1.322,1.251,0.98,1.349,99.82,False,False
+B1177,,Sumerpur PC,PAS,0.91,1.105,1.65,1.029,102.17,False,False
+B1097,,Nepal PC,PAS,1.18,1.351,1.071,1.049,99.22,False,False
+B1168,,Khamgaon,Noodles,1.367,1.278,1.266,1.263,99.54,False,False
+B1086,2024-03-25,Haridwar PC,Frisis,1.373,0.957,1.623,1.145,97.71,False,False
+B1132,,Sumerpur PC,Noodles,1.257,1.103,1.2610000000000001,0.831,97.34,False,False
+B1056,,Nepal PC,PAS,1.541,1.116,1.153,1.131,97.86,False,False
+B1107,,LLPL,Perfume,1.448,4.726,1.315,0.8,100.89,True,False
+B1105,,Haridwar PC,Perfume,1.155,1.318,1.273,1.24,99.2,False,False
+B1018,,Nepal PC,Frisis,1.633,1.298,1.296,1.085,97.77,False,False
+B1064,,Nepal PC,Perfume,1.307,1.288,1.2610000000000001,0.947,99.64,False,False
+B1110,,Sumerpur PC,Perfume,1.325,0.774,1.36,1.451,100.58,False,False
+B1115,,LLPL,Frisis,1.298,1.239,1.038,1.049,94.28,False,True
+B1092,,Khamgaon,Noodles,1.171,1.382,1.71,0.977,118.43,False,True
+B1053,,Khamgaon,PAS,1.779,1.062,1.293,1.224,100.24,False,False
+B1059,2024-01-23,Sumerpur PC,Frisis,1.617,1.175,1.58,0.785,102.27,False,False
+B1007,2024-01-26,Nepal PC,Perfume,1.294,1.065,1.112,1.544,98.76,False,False
+B1019,,Sumerpur PC,Perfume,1.082,1.341,1.319,1.049,101.49,False,False
+B1055,2024-08-15,Nepal PC,Perfume,1.19,1.018,1.302,1.052,100.9,False,False
+B1074,,Haridwar PC,PAS,1.328,1.105,1.131,1.168,99.02,False,False
+B1144,,Pondicherry PC,Noodles,1.281,1.168,1.305,1.215,99.54,False,False
+B1140,,Nepal PC,Noodles,1.097,0.919,1.213,1.04,97.91,False,False
+B1027,,Haridwar PC,PAS,1.254,1.074,1.259,1.021,100.95,False,False
+B1084,,Sumerpur PC,Frisis,1.737,0.851,1.111,0.906,100.84,False,False
+B1105,2024-01-28,Haridwar PC,Frisis,1.558,1.286,1.082,0.988,100.0,False,False
+B1116,,Khamgaon,Frisis,0.853,0.856,1.116,1.282,101.83,False,False
+B1048,,LLPL,Perfume,1.197,0.934,1.141,0.549,100.53,False,False
+B1021,2024-02-05,Pondicherry PC,Noodles,1.343,1.077,1.19,0.754,98.42,False,False
+B1192,2024-01-31,Sumerpur PC,PAS,1.566,1.124,1.413,1.174,101.43,False,False
+B1088,,Pondicherry PC,Frisis,1.281,1.105,1.245,1.062,103.19,False,False
+B1052,,LLPL,Noodles,1.256,1.105,1.38,1.247,101.18,False,False
+B1125,,Khamgaon,PAS,1.307,1.264,1.2610000000000001,0.752,99.54,False,False
+B1169,,LLPL,Perfume,1.57,1.105,0.91,0.969,97.66,False,False
+B1058,,Pondicherry PC,Noodles,1.592,1.105,1.2610000000000001,1.374,97.15,False,False
+B1083,2024-08-27,Pondicherry PC,Perfume,1.197,1.027,1.109,1.11,98.56,False,False
+B1192,2024-06-13,Haridwar PC,Noodles,1.608,1.23,1.2610000000000001,0.772,98.24,False,False
+B1196,,Khamgaon,Frisis,1.054,1.055,1.36,0.856,99.66,False,False
+B1192,,Nepal PC,Perfume,1.441,1.0,1.292,1.268,99.33,False,False
+B1180,,Sumerpur PC,Noodles,1.331,1.014,1.274,1.159,99.57,False,False
+B1033,,Sumerpur PC,Frisis,1.556,0.881,1.324,1.146,99.46,False,False
+B1195,,Pondicherry PC,Noodles,1.307,0.742,1.321,0.967,99.62,False,False
+B1148,,Haridwar PC,PAS,1.685,1.093,1.563,0.526,100.73,False,False
+B1016,,Nepal PC,PAS,0.96,1.037,1.102,1.047,99.54,False,False
+B1059,,Pondicherry PC,Perfume,1.312,1.456,1.368,1.093,100.16,False,False
+B1018,,Nepal PC,Frisis,1.427,1.111,0.89,0.921,95.17,False,True
+B1000,2024-05-15,Pondicherry PC,Frisis,1.001,1.263,1.521,1.036,101.01,False,False
+B1105,2024-04-01,Nepal PC,PAS,1.046,0.97,1.005,1.057,98.35,False,False
+B1190,2024-08-18,Khamgaon,PAS,0.992,1.145,1.511,0.729,99.78,False,False
+B1066,,Nepal PC,Perfume,1.431,1.456,1.075,1.058,99.1,False,False
+B1161,,Sumerpur PC,Noodles,1.271,1.348,0.931,0.93,99.51,False,False
+B1022,2024-02-24,Khamgaon,Perfume,1.108,1.274,1.287,1.488,98.29,False,False
+B1056,2024-10-28,LLPL,Frisis,1.241,1.053,1.566,1.203,98.8,False,False
+B1080,,Haridwar PC,Frisis,1.493,0.955,1.737,0.696,97.95,False,False
+B1151,,LLPL,PAS,1.424,1.184,1.33,1.005,99.51,False,False
+B1061,,Sumerpur PC,Noodles,1.345,1.105,1.779,1.009,99.54,False,False
+B1046,,LLPL,Perfume,1.333,1.07,1.392,1.241,98.32,False,False
+B1039,,Sumerpur PC,PAS,1.307,0.834,1.289,1.049,100.61,False,False
+B1170,,Khamgaon,Noodles,1.389,1.396,1.146,0.888,98.75,False,False
+B1132,2024-01-05,Pondicherry PC,PAS,1.307,1.008,1.163,0.988,99.83,False,False
+B1023,2024-01-29,Sumerpur PC,Frisis,1.507,1.357,1.161,1.049,98.86,False,False
+B1055,,Sumerpur PC,Noodles,1.349,1.105,1.743,0.99,98.52,False,False
+B1025,2024-10-22,Haridwar PC,Frisis,1.541,1.004,1.276,1.049,100.05,False,False
+B1158,,Pondicherry PC,Frisis,0.934,1.159,1.302,1.051,99.54,False,False
+B1167,2024-07-21,Khamgaon,PAS,0.944,0.991,1.272,0.82,100.06,False,False
+B1047,,Nepal PC,PAS,1.541,1.338,1.004,1.169,100.55,False,False
+B1007,,Haridwar PC,Perfume,1.274,0.701,0.99,1.359,101.48,False,False
+B1056,2024-11-03,Haridwar PC,PAS,1.836,0.862,1.312,1.177,100.12,False,False
+B1168,,Pondicherry PC,Frisis,1.853,1.105,1.139,0.776,99.37,False,False
+B1047,2024-12-20,Haridwar PC,Perfume,0.729,1.08,1.258,1.153,101.31,False,False
+B1192,2024-04-29,LLPL,Perfume,1.595,1.114,1.662,1.401,99.13,False,False
+B1110,,Sumerpur PC,Noodles,0.911,1.046,0.831,1.101,99.11,False,False
+B1113,,Pondicherry PC,Perfume,1.478,1.105,1.202,0.975,100.57,False,False
+B1186,,Khamgaon,Perfume,1.214,1.201,1.244,1.104,99.15,False,False
+B1116,2024-02-20,Nepal PC,Perfume,1.131,1.105,1.445,1.021,98.26,False,False
+B1123,,LLPL,Noodles,1.183,1.205,1.574,1.364,97.99,False,False
+B1164,,Haridwar PC,PAS,1.169,1.29,1.202,1.221,99.54,False,False
+B1135,,Khamgaon,Frisis,1.096,1.105,1.552,1.13,98.98,False,False
+B1103,2024-07-12,Sumerpur PC,Noodles,1.327,1.105,1.2610000000000001,0.999,101.76,False,False
+B1122,2024-08-06,Sumerpur PC,Noodles,1.297,0.921,1.265,1.049,99.54,False,False
+B1147,,LLPL,Frisis,0.947,1.078,1.069,0.903,101.35,False,False
+B1127,,Haridwar PC,PAS,1.286,1.054,1.389,1.42,101.19,False,False
+B1192,,Pondicherry PC,PAS,1.35,1.105,1.46,1.271,101.28,False,False
+B1158,2024-01-20,Nepal PC,PAS,1.064,1.165,1.5,1.049,100.24,False,False
+B1027,,Sumerpur PC,PAS,0.938,0.819,1.106,1.007,99.97,False,False
+B1017,,Haridwar PC,Perfume,1.428,1.105,1.218,1.211,100.08,False,False
+B1093,,Sumerpur PC,Perfume,1.604,1.082,1.323,1.31,112.24,False,True
+B1193,2024-06-02,Khamgaon,Frisis,1.307,1.2,1.708,0.841,99.54,False,False
+B1087,,Sumerpur PC,Perfume,1.287,1.069,1.462,0.603,99.85,False,False
+B1086,,LLPL,Frisis,1.086,3.523,1.346,1.005,100.57,True,False
+B1117,,LLPL,PAS,0.81,1.512,1.011,1.042,101.25,False,False
+B1042,,Khamgaon,Noodles,1.226,1.35,1.115,1.106,98.25,False,False
+B1185,2024-06-18,Nepal PC,PAS,1.112,1.044,0.911,1.03,99.54,False,False
+B1045,,Haridwar PC,Frisis,1.303,1.391,1.197,1.594,100.44,False,False
+B1038,2024-12-19,Haridwar PC,Frisis,1.263,1.019,1.13,1.202,101.16,False,False
+B1139,2024-05-09,Nepal PC,Frisis,1.307,0.813,1.212,1.061,99.54,False,False
+B1198,,Sumerpur PC,PAS,1.376,0.949,1.237,1.116,99.98,False,False
+B1063,,LLPL,Noodles,1.138,1.196,1.176,0.883,98.47,False,False
+B1179,,LLPL,PAS,1.241,0.817,1.166,0.981,98.3,False,False
+B1139,,Khamgaon,Frisis,1.839,1.234,1.125,0.966,97.57,False,False
+B1137,,Sumerpur PC,Noodles,1.445,0.795,1.09,1.318,98.17,False,False
+B1052,,Sumerpur PC,Perfume,1.235,0.799,1.201,0.995,95.45,False,False
+B1141,,Nepal PC,Frisis,1.53,1.105,0.936,0.852,100.91,False,False
+B1110,,Sumerpur PC,Perfume,1.252,1.16,1.243,0.816,101.21,False,False
+B1038,,LLPL,PAS,1.307,1.31,1.319,0.975,99.54,False,False
+B1019,2024-10-08,Nepal PC,PAS,1.544,1.004,1.213,1.049,97.84,False,False
+B1076,,Sumerpur PC,Noodles,0.782,1.031,1.176,0.768,98.33,False,False
+B1094,2024-09-15,Nepal PC,Perfume,0.902,1.213,1.123,1.249,99.08,False,False
+B1030,2024-03-29,Khamgaon,PAS,1.133,1.115,1.204,1.24,99.54,False,False
+B1149,,Khamgaon,Frisis,1.268,1.007,1.262,1.049,103.02,False,False
+B1119,,Nepal PC,Perfume,1.405,1.423,1.2610000000000001,1.141,99.13,False,False
+B1156,,Khamgaon,Perfume,1.307,0.974,1.425,1.16,98.43,False,False
+B1040,,Sumerpur PC,Frisis,1.873,0.822,0.921,1.255,103.16,False,False
+B1026,2024-09-14,Nepal PC,PAS,2.041,1.081,1.063,1.201,97.81,False,False
+B1106,2024-08-29,Sumerpur PC,Perfume,1.143,1.011,0.916,0.896,101.99,False,False
+B1078,2024-11-04,Pondicherry PC,Perfume,1.513,0.976,1.103,1.166,98.68,False,False
+B1097,,LLPL,Perfume,1.464,0.905,1.407,1.282,98.27,False,False
+B1052,,Khamgaon,Noodles,1.356,1.103,1.27,0.895,99.54,False,False
+B1062,,Pondicherry PC,PAS,1.22,1.209,1.457,0.608,100.04,False,False
+B1107,2024-01-31,LLPL,PAS,1.124,0.959,1.721,1.049,100.91,False,False
+B1096,2024-02-08,Khamgaon,Frisis,1.566,1.009,1.377,0.745,129.75,False,True
+B1054,2024-06-22,Haridwar PC,Noodles,1.358,0.789,1.316,1.049,100.75,False,False
+B1190,,LLPL,Noodles,1.188,1.332,1.408,1.175,100.44,False,False
+B1040,,Nepal PC,Noodles,0.986,1.105,1.427,0.86,98.24,False,False
+B1022,,Sumerpur PC,PAS,1.19,1.389,1.289,1.256,97.27,False,False
+B1116,2024-11-18,Haridwar PC,Noodles,1.174,0.79,1.264,0.838,100.21,False,False
+B1118,,LLPL,PAS,1.325,1.082,1.406,1.558,100.29,False,False
+B1076,2024-12-10,LLPL,Noodles,1.172,1.134,1.417,0.872,96.01,False,False
+B1134,2024-09-01,Khamgaon,Noodles,1.397,1.105,1.749,1.049,129.84,False,True
+B1200,,Haridwar PC,PAS,1.532,0.747,1.479,0.786,99.16,False,False
+B1095,,Sumerpur PC,PAS,0.731,1.105,1.116,1.258,98.59,False,False
+B1025,,Khamgaon,Perfume,1.323,1.226,1.2610000000000001,1.403,99.85,False,False
+B1197,,Nepal PC,Noodles,1.26,1.181,1.627,1.085,99.89,False,False
+B1111,,Nepal PC,PAS,1.565,0.748,1.013,0.642,99.1,False,False
+B1056,,Sumerpur PC,Frisis,1.248,1.074,1.448,0.949,97.74,False,False
+B1001,,Haridwar PC,Frisis,1.042,0.994,1.2610000000000001,1.174,101.19,False,False
+B1072,,Haridwar PC,Frisis,1.176,1.066,1.175,0.815,100.69,False,False
+B1092,,Khamgaon,Noodles,1.33,1.203,1.392,0.825,97.2,False,False
+B1090,2024-05-18,Nepal PC,Perfume,1.561,1.032,1.065,0.947,100.57,False,False
+B1093,,Pondicherry PC,Frisis,0.993,1.575,1.188,1.049,99.54,True,False
+B1101,,Haridwar PC,Noodles,1.307,0.833,1.13,1.114,97.11,False,False
+B1109,,LLPL,Perfume,1.581,0.812,1.225,1.035,97.85,False,False
+B1046,,Sumerpur PC,Noodles,1.669,1.272,1.218,1.046,98.0,False,False
+B1035,,Nepal PC,Noodles,1.365,1.256,1.003,0.786,100.28,False,False
+B1007,2024-12-15,Haridwar PC,Frisis,1.017,0.772,1.343,1.098,99.96,False,False
+B1022,,Khamgaon,Noodles,1.533,1.184,1.331,1.193,100.25,False,False
+B1028,,Sumerpur PC,Frisis,0.874,4.239,1.239,1.127,99.45,True,False
+B1156,,Khamgaon,Noodles,1.364,1.105,1.424,1.337,99.51,False,False
+B1162,,Haridwar PC,Frisis,1.345,1.222,0.946,1.049,98.51,False,False
+B1147,,Sumerpur PC,PAS,1.432,0.595,1.263,0.976,98.01,True,False
+B1174,,Pondicherry PC,Frisis,1.528,1.311,1.381,0.875,99.5,False,False
+B1105,2024-02-13,Haridwar PC,Perfume,1.411,1.028,1.482,0.834,100.42,False,False
+B1012,,LLPL,Frisis,1.07,1.41,1.093,0.986,100.72,False,False
+B1082,,Sumerpur PC,PAS,1.318,0.996,1.13,1.161,98.57,False,False
+B1102,,Sumerpur PC,Perfume,1.24,1.105,1.158,0.925,98.93,False,False
+B1146,,Khamgaon,Noodles,1.216,1.495,1.241,0.738,99.54,False,False
+B1126,,LLPL,Frisis,1.131,1.105,0.804,1.26,98.23,False,False
+B1168,,Khamgaon,PAS,1.447,1.538,1.052,0.937,99.65,False,False
+B1119,,Pondicherry PC,Perfume,1.136,1.105,1.095,0.98,99.83,False,False
+B1002,,Sumerpur PC,Perfume,1.332,0.721,1.506,0.927,102.67,False,False
+B1111,,Nepal PC,Noodles,1.307,1.45,1.437,1.304,100.58,False,False
+B1157,2024-08-24,Nepal PC,Noodles,1.075,1.198,0.986,1.049,102.25,False,False
+B1124,2024-11-05,Haridwar PC,Perfume,1.307,1.108,1.11,0.917,97.4,False,False
+B1155,,Pondicherry PC,PAS,0.892,0.985,1.41,1.086,100.3,False,False
+B1112,,Khamgaon,Perfume,1.254,0.852,1.087,1.313,96.87,False,False
+B1189,,Sumerpur PC,Noodles,1.424,1.105,1.38,1.355,99.54,False,False
+B1133,,Khamgaon,Noodles,1.442,1.426,1.174,1.009,98.63,False,False
+B1169,,Sumerpur PC,Noodles,1.619,1.166,1.1,1.36,99.67,False,False
+B1155,2024-07-31,Haridwar PC,Frisis,1.683,1.078,1.33,1.188,98.9,False,False
+B1049,,Khamgaon,Perfume,0.905,1.103,1.202,1.215,100.84,False,False
+B1011,2024-07-10,Pondicherry PC,Frisis,1.422,1.105,1.399,0.992,102.58,False,False
+B1018,,Pondicherry PC,Perfume,0.859,1.165,1.173,0.915,100.42,False,False
+B1080,2024-03-27,LLPL,Perfume,1.307,0.902,1.029,1.086,101.59,False,False
+B1095,,Nepal PC,Perfume,1.1,1.462,1.322,1.129,100.52,False,False
+B1164,,Pondicherry PC,Noodles,1.307,1.55,1.446,0.985,95.75,True,False
+B1059,,LLPL,Noodles,1.307,1.065,1.172,1.047,100.79,False,False
+B1010,,LLPL,Perfume,1.41,1.096,1.36,1.095,101.55,False,False
+B1003,,Sumerpur PC,Noodles,1.307,0.859,1.036,1.187,99.25,False,False
+B1064,,Nepal PC,Frisis,1.529,1.166,1.2610000000000001,0.944,100.27,False,False
+B1025,2024-01-09,Nepal PC,Noodles,1.563,1.092,1.386,1.049,99.54,False,False
+B1149,2024-09-17,Pondicherry PC,Frisis,1.387,1.3,0.671,1.468,99.29,False,False
+B1144,2024-05-04,Nepal PC,Frisis,1.307,1.222,1.032,0.987,101.32,False,False
+B1172,,Haridwar PC,PAS,1.443,0.749,1.666,0.989,99.64,False,False
+B1171,,Khamgaon,Perfume,1.361,1.149,1.149,0.956,99.85,False,False
+B1002,2024-11-14,Haridwar PC,Noodles,1.322,1.04,1.268,0.652,99.17,False,False
+B1042,,Nepal PC,Perfume,1.178,1.142,1.427,0.957,98.57,False,False
+B1146,2024-03-17,Pondicherry PC,Noodles,0.987,1.375,1.405,1.13,98.47,False,False
+B1193,2024-01-24,LLPL,Noodles,1.483,1.084,1.266,0.65,100.87,False,False
+B1092,,LLPL,Perfume,1.381,1.105,1.192,1.049,97.02,False,False
+B1071,2024-04-02,Nepal PC,Frisis,1.45,0.999,1.203,0.812,98.97,False,False
+B1112,,LLPL,Perfume,0.925,1.133,1.079,1.042,98.7,False,False
+B1171,,Pondicherry PC,PAS,1.699,1.105,1.081,0.852,96.27,False,False
+B1101,,Sumerpur PC,Noodles,1.307,1.2,1.54,1.242,102.73,False,False
+B1031,,Pondicherry PC,PAS,1.646,1.213,1.369,1.049,100.78,False,False
+B1139,,Pondicherry PC,PAS,1.324,1.294,1.11,0.984,98.91,False,False
+B1019,,Khamgaon,Noodles,1.233,0.879,1.765,1.062,99.54,False,False
+B1144,,Khamgaon,Perfume,1.514,1.105,1.452,1.049,101.8,False,False
+B1097,2024-07-12,Sumerpur PC,Perfume,1.646,1.302,0.924,1.106,97.91,False,False
+B1173,2024-10-26,LLPL,Perfume,1.157,1.047,1.169,1.53,99.47,False,False
+B1099,2024-12-16,Nepal PC,Frisis,1.46,0.871,1.2610000000000001,1.377,97.78,False,False
+B1176,,Khamgaon,Frisis,1.401,1.282,1.21,1.062,100.47,False,False
+B1162,,Sumerpur PC,Perfume,1.629,1.18,1.687,0.976,99.81,False,False
+B1101,,LLPL,Noodles,1.663,0.925,1.409,0.99,98.29,False,False
+B1112,,Khamgaon,Noodles,1.117,1.105,0.994,1.003,102.31,False,False
+B1088,2024-10-03,Khamgaon,Perfume,1.307,1.105,1.104,0.743,100.87,False,False
+B1044,,Haridwar PC,Perfume,1.367,1.105,1.358,1.06,101.31,False,False
+B1070,,LLPL,Noodles,1.232,3.993,1.632,1.263,96.81,True,False
+B1034,,Haridwar PC,PAS,1.042,1.09,1.325,0.899,99.54,False,False
+B1011,,Pondicherry PC,Frisis,1.502,1.105,1.001,1.272,98.44,False,False
+B1140,,Haridwar PC,Noodles,1.169,1.074,0.843,1.049,100.6,False,False
+B1162,,Sumerpur PC,Frisis,1.407,1.142,1.304,0.795,97.88,False,False
+B1163,2024-02-08,Khamgaon,PAS,1.09,1.105,1.283,0.977,100.38,False,False
+B1199,,Nepal PC,Noodles,1.541,1.183,1.2610000000000001,1.214,102.35,False,False
+B1108,,Khamgaon,Noodles,1.307,0.989,1.443,1.049,100.96,False,False
