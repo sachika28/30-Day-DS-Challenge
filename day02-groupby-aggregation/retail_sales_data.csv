@@ -1,0 +1,501 @@
+order_id,date,region,category,product,quantity,unit_price,discount_%,revenue
+ORD01000,2024-04-20,South,Home & Kitchen,Chopping Board,5,249,5,1182.75
+ORD01001,2024-01-02,West,Clothing,Formal Shirt,4,699,20,2236.8
+ORD01002,2024-03-15,North,Food & Beverage,Energy Drink Pack,7,299,0,2093.0
+ORD01003,2024-07-27,South,Clothing,Cotton T-Shirt,7,349,15,2076.55
+ORD01004,2024-02-29,West,Electronics,USB Hub,8,599,15,4073.2
+ORD01005,2024-01-11,East,Electronics,Smart Watch,2,2999,0,5998.0
+ORD01006,2024-09-05,West,Clothing,Formal Shirt,6,699,5,3984.3
+ORD01007,2024-04-30,South,Clothing,Cotton T-Shirt,8,349,20,2233.6
+ORD01008,2024-10-13,North,Clothing,Denim Jeans,2,999,0,1998.0
+ORD01009,2024-10-01,West,Home & Kitchen,Water Bottle,6,349,0,2094.0
+ORD01010,2024-07-16,West,Food & Beverage,Instant Coffee,8,349,10,2512.8
+ORD01011,2024-02-17,East,Home & Kitchen,Chopping Board,5,249,0,1245.0
+ORD01012,2024-10-08,South,Home & Kitchen,Non-Stick Pan,8,899,0,7192.0
+ORD01013,2024-12-08,South,Food & Beverage,Energy Drink Pack,2,299,0,598.0
+ORD01014,2024-11-01,South,Food & Beverage,Instant Coffee,6,349,20,1675.2
+ORD01015,2024-03-30,East,Clothing,Cotton T-Shirt,3,349,0,1047.0
+ORD01016,2024-09-23,West,Food & Beverage,Protein Bar Box,1,599,15,509.15
+ORD01017,2024-09-08,South,Home & Kitchen,Water Bottle,1,349,0,349.0
+ORD01018,2024-02-05,West,Clothing,Denim Jeans,3,999,10,2697.3
+ORD01019,2024-05-27,West,Home & Kitchen,Chopping Board,1,249,20,199.2
+ORD01020,2024-05-07,North,Food & Beverage,Instant Coffee,1,349,5,331.55
+ORD01021,2024-03-15,South,Home & Kitchen,Non-Stick Pan,6,899,15,4584.9
+ORD01022,2024-11-28,South,Home & Kitchen,Non-Stick Pan,5,899,0,4495.0
+ORD01023,2024-03-19,West,Electronics,Smart Watch,6,2999,20,14395.2
+ORD01024,2024-03-12,East,Home & Kitchen,Chopping Board,8,249,0,1992.0
+ORD01025,2024-03-05,East,Clothing,Cotton T-Shirt,7,349,15,2076.55
+ORD01026,2024-05-07,North,Food & Beverage,Energy Drink Pack,6,299,15,1524.9
+ORD01027,2024-03-13,West,Food & Beverage,Mixed Nuts,3,449,0,1347.0
+ORD01028,2024-11-24,North,Home & Kitchen,Non-Stick Pan,3,899,0,2697.0
+ORD01029,2024-05-24,West,Clothing,Cotton T-Shirt,2,349,15,593.3
+ORD01030,2024-09-09,South,Food & Beverage,Energy Drink Pack,6,299,5,1704.3
+ORD01031,2024-07-12,South,Clothing,Denim Jeans,3,999,20,2397.6
+ORD01032,2024-01-05,South,Electronics,Portable Charger,1,799,20,639.2
+ORD01033,2024-10-17,West,Home & Kitchen,Non-Stick Pan,7,899,20,5034.4
+ORD01034,2024-01-22,South,Clothing,Hoodie,6,799,15,4074.9
+ORD01035,2024-05-31,South,Home & Kitchen,Water Bottle,5,349,15,1483.25
+ORD01036,2024-10-31,West,Electronics,Portable Charger,1,799,10,719.1
+ORD01037,2024-11-11,East,Food & Beverage,Instant Coffee,4,349,0,1396.0
+ORD01038,2024-12-02,East,Clothing,Hoodie,2,799,0,1598.0
+ORD01039,2024-08-17,West,Electronics,Wireless Earbuds,2,1299,15,2208.3
+ORD01040,2024-02-06,North,Home & Kitchen,Chopping Board,7,249,5,1655.85
+ORD01041,2024-05-06,South,Electronics,Wireless Earbuds,7,1299,0,9093.0
+ORD01042,2024-05-01,East,Home & Kitchen,Chopping Board,8,249,20,1593.6
+ORD01043,2024-11-19,West,Home & Kitchen,Coffee Mug Set,8,549,0,4392.0
+ORD01044,2024-07-09,North,Electronics,Webcam,3,1899,5,5412.15
+ORD01045,2024-09-03,South,Home & Kitchen,Storage Box Set,5,699,0,3495.0
+ORD01046,2024-09-25,West,Home & Kitchen,Coffee Mug Set,7,549,20,3074.4
+ORD01047,2024-07-19,North,Clothing,Hoodie,4,799,0,3196.0
+ORD01048,2024-09-24,South,Electronics,Portable Charger,3,799,0,2397.0
+ORD01049,2024-12-26,East,Home & Kitchen,Chopping Board,2,249,0,498.0
+ORD01050,2024-10-24,West,Clothing,Hoodie,6,799,15,4074.9
+ORD01051,2024-09-20,South,Food & Beverage,Green Tea Pack,1,199,0,199.0
+ORD01052,2024-11-02,East,Clothing,Formal Shirt,4,699,0,2796.0
+ORD01053,2024-07-24,East,Home & Kitchen,Water Bottle,7,349,5,2320.85
+ORD01054,2024-03-30,West,Home & Kitchen,Storage Box Set,5,699,15,2970.75
+ORD01055,2024-01-18,West,Food & Beverage,Green Tea Pack,4,199,0,796.0
+ORD01056,2024-10-23,East,Food & Beverage,Green Tea Pack,2,199,10,358.2
+ORD01057,2024-08-18,North,Home & Kitchen,Storage Box Set,8,699,15,4753.2
+ORD01058,2024-06-07,South,Electronics,Portable Charger,3,799,0,2397.0
+ORD01059,2024-03-26,South,Home & Kitchen,Coffee Mug Set,1,549,0,549.0
+ORD01060,2024-04-06,South,Home & Kitchen,Storage Box Set,1,699,0,699.0
+ORD01061,2024-10-21,West,Home & Kitchen,Storage Box Set,4,699,0,2796.0
+ORD01062,2024-08-11,West,Electronics,Portable Charger,2,799,0,1598.0
+ORD01063,2024-09-26,South,Clothing,Cotton T-Shirt,8,349,20,2233.6
+ORD01064,2024-03-19,West,Home & Kitchen,Coffee Mug Set,3,549,0,1647.0
+ORD01065,2024-02-06,East,Food & Beverage,Instant Coffee,1,349,20,279.2
+ORD01066,2024-04-07,North,Clothing,Formal Shirt,2,699,15,1188.3
+ORD01067,2024-01-20,East,Food & Beverage,Instant Coffee,1,349,0,349.0
+ORD01068,2024-02-23,West,Food & Beverage,Mixed Nuts,3,449,0,1347.0
+ORD01069,2024-04-11,South,Food & Beverage,Energy Drink Pack,5,299,5,1420.25
+ORD01070,2024-04-22,South,Home & Kitchen,Non-Stick Pan,6,899,20,4315.2
+ORD01071,2024-12-29,South,Electronics,USB Hub,3,599,0,1797.0
+ORD01072,2024-08-14,East,Home & Kitchen,Chopping Board,3,249,20,597.6
+ORD01073,2024-11-27,North,Food & Beverage,Green Tea Pack,4,199,15,676.6
+ORD01074,2024-12-22,North,Food & Beverage,Mixed Nuts,4,449,5,1706.2
+ORD01075,2024-05-15,East,Electronics,USB Hub,3,599,10,1617.3
+ORD01076,2024-09-13,North,Home & Kitchen,Water Bottle,3,349,10,942.3
+ORD01077,2024-08-18,West,Clothing,Denim Jeans,5,999,20,3996.0
+ORD01078,2024-04-01,East,Electronics,Smart Watch,7,2999,10,18893.7
+ORD01079,2024-08-04,East,Food & Beverage,Energy Drink Pack,3,299,0,897.0
+ORD01080,2024-09-24,North,Clothing,Cotton T-Shirt,4,349,10,1256.4
+ORD01081,2024-12-05,East,Food & Beverage,Green Tea Pack,3,199,0,597.0
+ORD01082,2024-04-18,West,Home & Kitchen,Chopping Board,4,249,15,846.6
+ORD01083,2024-09-07,East,Clothing,Sports Shorts,7,449,0,3143.0
+ORD01084,2024-01-19,West,Food & Beverage,Green Tea Pack,8,199,0,1592.0
+ORD01085,2024-04-22,East,Home & Kitchen,Coffee Mug Set,3,549,15,1399.95
+ORD01086,2024-01-02,South,Home & Kitchen,Water Bottle,7,349,0,2443.0
+ORD01087,2024-10-10,East,Home & Kitchen,Water Bottle,8,349,0,2792.0
+ORD01088,2024-03-08,West,Electronics,Wireless Earbuds,6,1299,20,6235.2
+ORD01089,2024-10-15,West,Food & Beverage,Mixed Nuts,6,449,5,2559.3
+ORD01090,2024-12-01,West,Electronics,USB Hub,2,599,0,1198.0
+ORD01091,2024-06-19,East,Home & Kitchen,Non-Stick Pan,4,899,10,3236.4
+ORD01092,2024-05-15,North,Food & Beverage,Protein Bar Box,3,599,0,1797.0
+ORD01093,2024-09-11,North,Food & Beverage,Protein Bar Box,4,599,0,2396.0
+ORD01094,2024-09-24,West,Clothing,Cotton T-Shirt,6,349,15,1779.9
+ORD01095,2024-01-30,East,Electronics,Smart Watch,3,2999,0,8997.0
+ORD01096,2024-11-04,East,Home & Kitchen,Non-Stick Pan,2,899,20,1438.4
+ORD01097,2024-09-13,North,Clothing,Formal Shirt,8,699,5,5312.4
+ORD01098,2024-06-26,East,Home & Kitchen,Non-Stick Pan,6,899,0,5394.0
+ORD01099,2024-04-29,West,Home & Kitchen,Chopping Board,4,249,5,946.2
+ORD01100,2024-09-07,North,Home & Kitchen,Water Bottle,2,349,0,698.0
+ORD01101,2024-12-20,South,Clothing,Cotton T-Shirt,5,349,0,1745.0
+ORD01102,2024-04-05,East,Food & Beverage,Protein Bar Box,1,599,5,569.05
+ORD01103,2024-03-19,South,Clothing,Cotton T-Shirt,3,349,20,837.6
+ORD01104,2024-07-26,South,Electronics,Smart Watch,2,2999,15,5098.3
+ORD01105,2024-01-10,North,Electronics,Smart Watch,4,2999,10,10796.4
+ORD01106,2024-04-14,North,Clothing,Denim Jeans,2,999,0,1998.0
+ORD01107,2024-12-17,West,Electronics,Webcam,5,1899,0,9495.0
+ORD01108,2024-07-25,East,Home & Kitchen,Non-Stick Pan,8,899,0,7192.0
+ORD01109,2024-05-11,West,Clothing,Cotton T-Shirt,2,349,20,558.4
+ORD01110,2024-06-23,West,Food & Beverage,Energy Drink Pack,3,299,0,897.0
+ORD01111,2024-05-30,East,Home & Kitchen,Coffee Mug Set,7,549,20,3074.4
+ORD01112,2024-06-15,North,Electronics,USB Hub,2,599,5,1138.1
+ORD01113,2024-02-27,South,Clothing,Hoodie,5,799,5,3795.25
+ORD01114,2024-08-05,East,Home & Kitchen,Water Bottle,1,349,0,349.0
+ORD01115,2024-04-11,North,Home & Kitchen,Water Bottle,6,349,15,1779.9
+ORD01116,2024-04-05,North,Home & Kitchen,Coffee Mug Set,6,549,5,3129.3
+ORD01117,2024-01-17,North,Home & Kitchen,Storage Box Set,4,699,0,2796.0
+ORD01118,2024-12-07,South,Clothing,Denim Jeans,6,999,0,5994.0
+ORD01119,2024-07-11,South,Home & Kitchen,Water Bottle,6,349,10,1884.6
+ORD01120,2024-07-07,South,Food & Beverage,Energy Drink Pack,3,299,15,762.45
+ORD01121,2024-11-29,West,Clothing,Hoodie,6,799,20,3835.2
+ORD01122,2024-06-04,South,Food & Beverage,Green Tea Pack,1,199,0,199.0
+ORD01123,2024-11-16,East,Home & Kitchen,Water Bottle,7,349,0,2443.0
+ORD01124,2024-03-03,East,Food & Beverage,Protein Bar Box,4,599,20,1916.8
+ORD01125,2024-11-29,North,Clothing,Sports Shorts,4,449,5,1706.2
+ORD01126,2024-05-30,South,Clothing,Sports Shorts,7,449,15,2671.55
+ORD01127,2024-01-03,South,Home & Kitchen,Non-Stick Pan,3,899,15,2292.45
+ORD01128,2024-08-30,North,Clothing,Sports Shorts,2,449,20,718.4
+ORD01129,2024-09-18,North,Electronics,USB Hub,2,599,0,1198.0
+ORD01130,2024-07-19,East,Home & Kitchen,Coffee Mug Set,7,549,20,3074.4
+ORD01131,2024-07-28,North,Food & Beverage,Instant Coffee,1,349,15,296.65
+ORD01132,2024-06-27,East,Home & Kitchen,Coffee Mug Set,5,549,20,2196.0
+ORD01133,2024-03-23,South,Food & Beverage,Instant Coffee,4,349,15,1186.6
+ORD01134,2024-01-23,North,Food & Beverage,Protein Bar Box,1,599,0,599.0
+ORD01135,2024-01-15,South,Food & Beverage,Protein Bar Box,1,599,0,599.0
+ORD01136,2024-03-06,South,Food & Beverage,Energy Drink Pack,4,299,20,956.8
+ORD01137,2024-03-29,East,Clothing,Formal Shirt,4,699,0,2796.0
+ORD01138,2024-07-21,East,Home & Kitchen,Coffee Mug Set,6,549,0,3294.0
+ORD01139,2024-06-13,West,Food & Beverage,Green Tea Pack,4,199,0,796.0
+ORD01140,2024-11-12,South,Food & Beverage,Mixed Nuts,4,449,0,1796.0
+ORD01141,2024-11-11,West,Home & Kitchen,Water Bottle,3,349,15,889.95
+ORD01142,2024-10-11,West,Electronics,Webcam,8,1899,0,15192.0
+ORD01143,2024-01-05,West,Clothing,Formal Shirt,2,699,10,1258.2
+ORD01144,2024-11-21,North,Food & Beverage,Energy Drink Pack,3,299,15,762.45
+ORD01145,2024-07-27,North,Electronics,Webcam,2,1899,10,3418.2
+ORD01146,2024-05-15,East,Home & Kitchen,Chopping Board,8,249,15,1693.2
+ORD01147,2024-03-13,South,Food & Beverage,Protein Bar Box,5,599,0,2995.0
+ORD01148,2024-06-29,South,Home & Kitchen,Coffee Mug Set,5,549,20,2196.0
+ORD01149,2024-11-24,West,Electronics,USB Hub,1,599,0,599.0
+ORD01150,2024-05-29,South,Clothing,Sports Shorts,6,449,5,2559.3
+ORD01151,2024-10-19,South,Home & Kitchen,Coffee Mug Set,4,549,15,1866.6
+ORD01152,2024-08-03,East,Food & Beverage,Energy Drink Pack,8,299,10,2152.8
+ORD01153,2024-09-27,South,Food & Beverage,Protein Bar Box,3,599,10,1617.3
+ORD01154,2024-09-03,South,Electronics,Smart Watch,5,2999,20,11996.0
+ORD01155,2024-11-05,West,Food & Beverage,Protein Bar Box,5,599,0,2995.0
+ORD01156,2024-10-02,North,Food & Beverage,Energy Drink Pack,2,299,0,598.0
+ORD01157,2024-08-08,South,Electronics,Portable Charger,4,799,15,2716.6
+ORD01158,2024-04-08,West,Home & Kitchen,Coffee Mug Set,3,549,5,1564.65
+ORD01159,2024-12-09,North,Food & Beverage,Mixed Nuts,7,449,0,3143.0
+ORD01160,2024-04-28,East,Home & Kitchen,Chopping Board,5,249,10,1120.5
+ORD01161,2024-09-28,North,Food & Beverage,Instant Coffee,6,349,0,2094.0
+ORD01162,2024-04-05,West,Electronics,USB Hub,3,599,0,1797.0
+ORD01163,2024-10-24,North,Food & Beverage,Protein Bar Box,3,599,20,1437.6
+ORD01164,2024-01-27,South,Food & Beverage,Energy Drink Pack,2,299,0,598.0
+ORD01165,2024-06-03,West,Clothing,Denim Jeans,7,999,5,6643.35
+ORD01166,2024-10-27,West,Electronics,Smart Watch,3,2999,0,8997.0
+ORD01167,2024-07-15,West,Home & Kitchen,Water Bottle,7,349,20,1954.4
+ORD01168,2024-02-28,East,Electronics,Smart Watch,3,2999,0,8997.0
+ORD01169,2024-11-30,East,Electronics,Wireless Earbuds,7,1299,20,7274.4
+ORD01170,2024-07-24,East,Home & Kitchen,Chopping Board,5,249,0,1245.0
+ORD01171,2024-09-12,North,Food & Beverage,Protein Bar Box,6,599,10,3234.6
+ORD01172,2024-07-29,North,Food & Beverage,Green Tea Pack,8,199,5,1512.4
+ORD01173,2024-05-04,West,Home & Kitchen,Coffee Mug Set,1,549,5,521.55
+ORD01174,2024-05-19,North,Food & Beverage,Protein Bar Box,8,599,0,4792.0
+ORD01175,2024-04-07,West,Clothing,Sports Shorts,7,449,0,3143.0
+ORD01176,2024-08-16,East,Food & Beverage,Instant Coffee,5,349,15,1483.25
+ORD01177,2024-03-01,North,Electronics,USB Hub,2,599,15,1018.3
+ORD01178,2024-07-18,West,Home & Kitchen,Coffee Mug Set,7,549,0,3843.0
+ORD01179,2024-10-06,South,Food & Beverage,Green Tea Pack,3,199,0,597.0
+ORD01180,2024-10-07,North,Clothing,Hoodie,7,799,10,5033.7
+ORD01181,2024-11-12,West,Home & Kitchen,Non-Stick Pan,3,899,0,2697.0
+ORD01182,2024-04-26,West,Home & Kitchen,Water Bottle,7,349,20,1954.4
+ORD01183,2024-11-28,South,Food & Beverage,Protein Bar Box,1,599,0,599.0
+ORD01184,2024-12-22,South,Electronics,USB Hub,7,599,10,3773.7
+ORD01185,2024-02-17,South,Electronics,Webcam,5,1899,20,7596.0
+ORD01186,2024-07-15,East,Electronics,Smart Watch,8,2999,20,19193.6
+ORD01187,2024-11-30,West,Food & Beverage,Green Tea Pack,6,199,5,1134.3
+ORD01188,2024-09-05,East,Electronics,Wireless Earbuds,3,1299,0,3897.0
+ORD01189,2024-05-18,West,Food & Beverage,Mixed Nuts,2,449,10,808.2
+ORD01190,2024-01-22,North,Food & Beverage,Instant Coffee,5,349,0,1745.0
+ORD01191,2024-05-15,South,Clothing,Formal Shirt,1,699,20,559.2
+ORD01192,2024-01-13,South,Home & Kitchen,Storage Box Set,4,699,20,2236.8
+ORD01193,2024-09-25,North,Food & Beverage,Mixed Nuts,2,449,20,718.4
+ORD01194,2024-05-08,East,Home & Kitchen,Chopping Board,8,249,20,1593.6
+ORD01195,2024-12-06,North,Home & Kitchen,Coffee Mug Set,4,549,10,1976.4
+ORD01196,2024-09-01,East,Clothing,Cotton T-Shirt,3,349,20,837.6
+ORD01197,2024-05-12,West,Clothing,Cotton T-Shirt,1,349,5,331.55
+ORD01198,2024-01-21,North,Clothing,Denim Jeans,5,999,20,3996.0
+ORD01199,2024-07-06,South,Clothing,Sports Shorts,4,449,0,1796.0
+ORD01200,2024-11-27,West,Food & Beverage,Green Tea Pack,3,199,0,597.0
+ORD01201,2024-07-03,East,Food & Beverage,Mixed Nuts,5,449,0,2245.0
+ORD01202,2024-06-23,West,Food & Beverage,Protein Bar Box,3,599,20,1437.6
+ORD01203,2024-10-04,North,Food & Beverage,Protein Bar Box,5,599,15,2545.75
+ORD01204,2024-03-20,West,Clothing,Formal Shirt,6,699,0,4194.0
+ORD01205,2024-08-23,North,Electronics,Portable Charger,1,799,20,639.2
+ORD01206,2024-09-25,South,Home & Kitchen,Chopping Board,8,249,20,1593.6
+ORD01207,2024-09-28,South,Home & Kitchen,Chopping Board,4,249,0,996.0
+ORD01208,2024-09-14,North,Food & Beverage,Mixed Nuts,2,449,10,808.2
+ORD01209,2024-05-25,West,Food & Beverage,Instant Coffee,7,349,0,2443.0
+ORD01210,2024-12-10,North,Food & Beverage,Protein Bar Box,5,599,5,2845.25
+ORD01211,2024-11-20,South,Electronics,USB Hub,6,599,5,3414.3
+ORD01212,2024-12-21,East,Home & Kitchen,Water Bottle,7,349,0,2443.0
+ORD01213,2024-05-04,West,Clothing,Formal Shirt,3,699,10,1887.3
+ORD01214,2024-06-29,West,Electronics,Webcam,3,1899,0,5697.0
+ORD01215,2024-08-30,South,Home & Kitchen,Storage Box Set,5,699,10,3145.5
+ORD01216,2024-06-07,West,Food & Beverage,Green Tea Pack,4,199,5,756.2
+ORD01217,2024-12-12,South,Electronics,USB Hub,6,599,0,3594.0
+ORD01218,2024-06-04,East,Electronics,Smart Watch,1,2999,5,2849.05
+ORD01219,2024-04-15,West,Electronics,Smart Watch,2,2999,0,5998.0
+ORD01220,2024-11-14,South,Home & Kitchen,Non-Stick Pan,7,899,0,6293.0
+ORD01221,2024-02-10,South,Electronics,Webcam,1,1899,10,1709.1
+ORD01222,2024-09-04,West,Home & Kitchen,Storage Box Set,1,699,0,699.0
+ORD01223,2024-10-16,West,Clothing,Denim Jeans,1,999,0,999.0
+ORD01224,2024-11-15,East,Clothing,Denim Jeans,5,999,20,3996.0
+ORD01225,2024-07-21,North,Food & Beverage,Protein Bar Box,7,599,0,4193.0
+ORD01226,2024-06-05,North,Food & Beverage,Energy Drink Pack,8,299,5,2272.4
+ORD01227,2024-06-05,North,Home & Kitchen,Water Bottle,1,349,0,349.0
+ORD01228,2024-10-01,West,Home & Kitchen,Non-Stick Pan,5,899,15,3820.75
+ORD01229,2024-01-19,East,Home & Kitchen,Storage Box Set,2,699,10,1258.2
+ORD01230,2024-08-05,East,Clothing,Sports Shorts,5,449,20,1796.0
+ORD01231,2024-10-09,North,Food & Beverage,Green Tea Pack,3,199,0,597.0
+ORD01232,2024-03-04,West,Electronics,Smart Watch,5,2999,0,14995.0
+ORD01233,2024-01-31,West,Home & Kitchen,Non-Stick Pan,3,899,0,2697.0
+ORD01234,2024-11-23,South,Clothing,Denim Jeans,3,999,5,2847.15
+ORD01235,2024-10-15,West,Electronics,USB Hub,8,599,10,4312.8
+ORD01236,2024-08-10,South,Clothing,Cotton T-Shirt,6,349,0,2094.0
+ORD01237,2024-02-06,North,Food & Beverage,Instant Coffee,5,349,20,1396.0
+ORD01238,2024-04-02,South,Food & Beverage,Protein Bar Box,8,599,0,4792.0
+ORD01239,2024-08-10,West,Food & Beverage,Green Tea Pack,5,199,0,995.0
+ORD01240,2024-11-30,South,Home & Kitchen,Storage Box Set,7,699,0,4893.0
+ORD01241,2024-07-15,East,Food & Beverage,Protein Bar Box,7,599,10,3773.7
+ORD01242,2024-08-15,West,Clothing,Denim Jeans,2,999,20,1598.4
+ORD01243,2024-06-03,West,Food & Beverage,Mixed Nuts,2,449,10,808.2
+ORD01244,2024-11-25,North,Food & Beverage,Protein Bar Box,4,599,15,2036.6
+ORD01245,2024-11-12,North,Electronics,Smart Watch,1,2999,15,2549.15
+ORD01246,2024-06-18,East,Electronics,Webcam,2,1899,10,3418.2
+ORD01247,2024-07-01,North,Clothing,Hoodie,8,799,0,6392.0
+ORD01248,2024-05-06,West,Clothing,Sports Shorts,1,449,20,359.2
+ORD01249,2024-04-14,West,Clothing,Sports Shorts,3,449,0,1347.0
+ORD01250,2024-07-09,South,Clothing,Denim Jeans,3,999,0,2997.0
+ORD01251,2024-10-12,South,Home & Kitchen,Storage Box Set,8,699,0,5592.0
+ORD01252,2024-02-25,North,Clothing,Sports Shorts,2,449,5,853.1
+ORD01253,2024-09-13,East,Clothing,Hoodie,8,799,0,6392.0
+ORD01254,2024-10-24,West,Clothing,Cotton T-Shirt,6,349,0,2094.0
+ORD01255,2024-12-03,North,Home & Kitchen,Non-Stick Pan,3,899,0,2697.0
+ORD01256,2024-11-03,South,Food & Beverage,Instant Coffee,5,349,0,1745.0
+ORD01257,2024-12-07,South,Clothing,Formal Shirt,5,699,0,3495.0
+ORD01258,2024-12-18,West,Electronics,USB Hub,1,599,10,539.1
+ORD01259,2024-09-26,West,Home & Kitchen,Coffee Mug Set,2,549,10,988.2
+ORD01260,2024-09-20,East,Electronics,USB Hub,6,599,0,3594.0
+ORD01261,2024-02-10,West,Home & Kitchen,Coffee Mug Set,7,549,0,3843.0
+ORD01262,2024-02-07,North,Clothing,Cotton T-Shirt,1,349,0,349.0
+ORD01263,2024-08-01,North,Home & Kitchen,Chopping Board,5,249,5,1182.75
+ORD01264,2024-11-13,West,Home & Kitchen,Water Bottle,3,349,20,837.6
+ORD01265,2024-05-07,North,Clothing,Formal Shirt,2,699,10,1258.2
+ORD01266,2024-02-13,West,Food & Beverage,Protein Bar Box,4,599,15,2036.6
+ORD01267,2024-07-11,North,Electronics,Webcam,4,1899,15,6456.6
+ORD01268,2024-12-14,West,Electronics,Smart Watch,6,2999,10,16194.6
+ORD01269,2024-08-10,West,Clothing,Denim Jeans,2,999,5,1898.1
+ORD01270,2024-02-28,South,Electronics,Portable Charger,3,799,0,2397.0
+ORD01271,2024-09-11,West,Home & Kitchen,Non-Stick Pan,2,899,10,1618.2
+ORD01272,2024-03-28,North,Home & Kitchen,Non-Stick Pan,5,899,20,3596.0
+ORD01273,2024-09-23,North,Clothing,Formal Shirt,3,699,0,2097.0
+ORD01274,2024-05-02,East,Food & Beverage,Energy Drink Pack,8,299,0,2392.0
+ORD01275,2024-09-08,North,Electronics,Portable Charger,7,799,0,5593.0
+ORD01276,2024-11-29,West,Home & Kitchen,Storage Box Set,4,699,15,2376.6
+ORD01277,2024-11-19,East,Food & Beverage,Instant Coffee,8,349,0,2792.0
+ORD01278,2024-06-20,West,Electronics,Smart Watch,4,2999,10,10796.4
+ORD01279,2024-06-02,North,Food & Beverage,Instant Coffee,3,349,5,994.65
+ORD01280,2024-05-01,North,Electronics,Portable Charger,7,799,20,4474.4
+ORD01281,2024-10-28,East,Home & Kitchen,Chopping Board,6,249,10,1344.6
+ORD01282,2024-07-13,North,Clothing,Cotton T-Shirt,3,349,20,837.6
+ORD01283,2024-08-29,North,Home & Kitchen,Water Bottle,2,349,15,593.3
+ORD01284,2024-08-23,East,Home & Kitchen,Storage Box Set,7,699,0,4893.0
+ORD01285,2024-07-22,North,Electronics,USB Hub,5,599,0,2995.0
+ORD01286,2024-01-25,South,Food & Beverage,Instant Coffee,2,349,0,698.0
+ORD01287,2024-11-11,South,Electronics,Wireless Earbuds,4,1299,5,4936.2
+ORD01288,2024-12-23,East,Electronics,Wireless Earbuds,5,1299,0,6495.0
+ORD01289,2024-03-25,East,Electronics,Smart Watch,8,2999,15,20393.2
+ORD01290,2024-01-31,North,Food & Beverage,Mixed Nuts,3,449,0,1347.0
+ORD01291,2024-03-11,South,Home & Kitchen,Non-Stick Pan,8,899,0,7192.0
+ORD01292,2024-04-25,North,Food & Beverage,Green Tea Pack,1,199,5,189.05
+ORD01293,2024-07-18,North,Home & Kitchen,Water Bottle,4,349,20,1116.8
+ORD01294,2024-05-16,South,Food & Beverage,Energy Drink Pack,7,299,20,1674.4
+ORD01295,2024-08-11,North,Electronics,Wireless Earbuds,1,1299,0,1299.0
+ORD01296,2024-11-10,East,Home & Kitchen,Storage Box Set,3,699,5,1992.15
+ORD01297,2024-09-26,South,Electronics,Webcam,3,1899,15,4842.45
+ORD01298,2024-11-20,West,Clothing,Hoodie,8,799,0,6392.0
+ORD01299,2024-10-26,North,Clothing,Formal Shirt,8,699,15,4753.2
+ORD01300,2024-05-20,West,Electronics,Wireless Earbuds,2,1299,0,2598.0
+ORD01301,2024-10-11,North,Food & Beverage,Protein Bar Box,1,599,15,509.15
+ORD01302,2024-03-09,East,Home & Kitchen,Non-Stick Pan,2,899,0,1798.0
+ORD01303,2024-10-24,East,Clothing,Denim Jeans,6,999,0,5994.0
+ORD01304,2024-11-06,North,Clothing,Formal Shirt,6,699,0,4194.0
+ORD01305,2024-11-05,South,Electronics,Wireless Earbuds,6,1299,10,7014.6
+ORD01306,2024-09-20,East,Electronics,Webcam,8,1899,20,12153.6
+ORD01307,2024-01-16,East,Electronics,Smart Watch,5,2999,10,13495.5
+ORD01308,2024-07-30,South,Electronics,Smart Watch,3,2999,0,8997.0
+ORD01309,2024-05-04,South,Home & Kitchen,Water Bottle,6,349,15,1779.9
+ORD01310,2024-03-08,West,Home & Kitchen,Coffee Mug Set,7,549,0,3843.0
+ORD01311,2024-07-02,West,Clothing,Hoodie,2,799,0,1598.0
+ORD01312,2024-03-07,West,Home & Kitchen,Storage Box Set,8,699,0,5592.0
+ORD01313,2024-02-03,South,Clothing,Cotton T-Shirt,6,349,0,2094.0
+ORD01314,2024-08-12,West,Home & Kitchen,Water Bottle,4,349,0,1396.0
+ORD01315,2024-08-18,North,Electronics,Wireless Earbuds,4,1299,20,4156.8
+ORD01316,2024-07-18,South,Clothing,Denim Jeans,7,999,20,5594.4
+ORD01317,2024-04-26,South,Food & Beverage,Mixed Nuts,1,449,20,359.2
+ORD01318,2024-10-29,North,Food & Beverage,Mixed Nuts,5,449,0,2245.0
+ORD01319,2024-02-27,South,Food & Beverage,Protein Bar Box,8,599,0,4792.0
+ORD01320,2024-02-06,East,Clothing,Sports Shorts,7,449,15,2671.55
+ORD01321,2024-03-21,North,Clothing,Formal Shirt,5,699,15,2970.75
+ORD01322,2024-09-26,West,Home & Kitchen,Storage Box Set,5,699,0,3495.0
+ORD01323,2024-12-03,East,Clothing,Sports Shorts,1,449,0,449.0
+ORD01324,2024-01-31,East,Food & Beverage,Green Tea Pack,8,199,5,1512.4
+ORD01325,2024-10-15,South,Electronics,Wireless Earbuds,8,1299,20,8313.6
+ORD01326,2024-05-15,North,Home & Kitchen,Water Bottle,6,349,5,1989.3
+ORD01327,2024-03-31,North,Food & Beverage,Energy Drink Pack,3,299,0,897.0
+ORD01328,2024-12-26,North,Home & Kitchen,Storage Box Set,8,699,20,4473.6
+ORD01329,2024-01-06,West,Food & Beverage,Green Tea Pack,2,199,0,398.0
+ORD01330,2024-07-05,East,Clothing,Hoodie,4,799,10,2876.4
+ORD01331,2024-07-11,West,Food & Beverage,Instant Coffee,3,349,20,837.6
+ORD01332,2024-12-27,South,Food & Beverage,Green Tea Pack,8,199,10,1432.8
+ORD01333,2024-11-15,South,Clothing,Hoodie,4,799,0,3196.0
+ORD01334,2024-12-29,North,Home & Kitchen,Coffee Mug Set,5,549,15,2333.25
+ORD01335,2024-10-27,North,Food & Beverage,Instant Coffee,7,349,5,2320.85
+ORD01336,2024-05-27,West,Food & Beverage,Protein Bar Box,5,599,10,2695.5
+ORD01337,2024-06-05,West,Electronics,Smart Watch,3,2999,0,8997.0
+ORD01338,2024-05-26,South,Electronics,Wireless Earbuds,8,1299,15,8833.2
+ORD01339,2024-05-16,South,Electronics,Webcam,4,1899,10,6836.4
+ORD01340,2024-07-10,South,Clothing,Cotton T-Shirt,2,349,10,628.2
+ORD01341,2024-03-05,South,Food & Beverage,Mixed Nuts,7,449,20,2514.4
+ORD01342,2024-04-24,South,Clothing,Formal Shirt,2,699,5,1328.1
+ORD01343,2024-04-02,South,Home & Kitchen,Storage Box Set,7,699,20,3914.4
+ORD01344,2024-10-23,East,Electronics,USB Hub,2,599,10,1078.2
+ORD01345,2024-05-27,South,Clothing,Sports Shorts,5,449,0,2245.0
+ORD01346,2024-11-10,West,Food & Beverage,Green Tea Pack,1,199,0,199.0
+ORD01347,2024-03-05,South,Home & Kitchen,Storage Box Set,7,699,0,4893.0
+ORD01348,2024-06-17,West,Food & Beverage,Instant Coffee,4,349,0,1396.0
+ORD01349,2024-02-13,South,Clothing,Sports Shorts,2,449,5,853.1
+ORD01350,2024-09-17,West,Electronics,Webcam,4,1899,20,6076.8
+ORD01351,2024-10-28,West,Electronics,Wireless Earbuds,5,1299,10,5845.5
+ORD01352,2024-10-30,North,Food & Beverage,Green Tea Pack,6,199,0,1194.0
+ORD01353,2024-05-19,East,Food & Beverage,Green Tea Pack,1,199,0,199.0
+ORD01354,2024-04-14,East,Electronics,Wireless Earbuds,8,1299,0,10392.0
+ORD01355,2024-11-01,South,Electronics,Portable Charger,1,799,10,719.1
+ORD01356,2024-01-20,South,Clothing,Sports Shorts,5,449,0,2245.0
+ORD01357,2024-03-06,South,Home & Kitchen,Coffee Mug Set,4,549,15,1866.6
+ORD01358,2024-09-27,East,Food & Beverage,Instant Coffee,2,349,20,558.4
+ORD01359,2024-02-24,East,Food & Beverage,Instant Coffee,3,349,10,942.3
+ORD01360,2024-04-05,East,Home & Kitchen,Chopping Board,1,249,5,236.55
+ORD01361,2024-08-10,North,Food & Beverage,Instant Coffee,8,349,15,2373.2
+ORD01362,2024-12-28,North,Home & Kitchen,Chopping Board,6,249,0,1494.0
+ORD01363,2024-01-19,West,Home & Kitchen,Coffee Mug Set,3,549,20,1317.6
+ORD01364,2024-11-27,North,Clothing,Cotton T-Shirt,7,349,5,2320.85
+ORD01365,2024-05-19,North,Electronics,Smart Watch,4,2999,20,9596.8
+ORD01366,2024-07-08,South,Electronics,USB Hub,7,599,0,4193.0
+ORD01367,2024-03-22,East,Electronics,USB Hub,8,599,10,4312.8
+ORD01368,2024-03-15,West,Home & Kitchen,Non-Stick Pan,2,899,10,1618.2
+ORD01369,2024-08-08,East,Home & Kitchen,Non-Stick Pan,1,899,15,764.15
+ORD01370,2024-10-14,South,Electronics,Webcam,1,1899,5,1804.05
+ORD01371,2024-02-12,West,Electronics,Smart Watch,5,2999,0,14995.0
+ORD01372,2024-03-05,East,Home & Kitchen,Non-Stick Pan,8,899,10,6472.8
+ORD01373,2024-02-27,East,Clothing,Cotton T-Shirt,8,349,0,2792.0
+ORD01374,2024-04-26,West,Food & Beverage,Protein Bar Box,5,599,0,2995.0
+ORD01375,2024-10-05,North,Electronics,Wireless Earbuds,8,1299,10,9352.8
+ORD01376,2024-12-29,North,Electronics,Portable Charger,7,799,0,5593.0
+ORD01377,2024-11-03,West,Clothing,Hoodie,6,799,0,4794.0
+ORD01378,2024-09-24,East,Home & Kitchen,Storage Box Set,3,699,20,1677.6
+ORD01379,2024-10-27,West,Home & Kitchen,Chopping Board,1,249,0,249.0
+ORD01380,2024-09-10,South,Electronics,USB Hub,5,599,0,2995.0
+ORD01381,2024-07-16,West,Clothing,Cotton T-Shirt,3,349,0,1047.0
+ORD01382,2024-09-18,North,Home & Kitchen,Non-Stick Pan,4,899,0,3596.0
+ORD01383,2024-10-17,South,Food & Beverage,Energy Drink Pack,4,299,15,1016.6
+ORD01384,2024-06-12,West,Electronics,Smart Watch,1,2999,15,2549.15
+ORD01385,2024-11-18,West,Home & Kitchen,Storage Box Set,1,699,10,629.1
+ORD01386,2024-10-03,West,Clothing,Sports Shorts,6,449,0,2694.0
+ORD01387,2024-07-18,East,Electronics,Wireless Earbuds,8,1299,0,10392.0
+ORD01388,2024-04-28,East,Clothing,Denim Jeans,2,999,0,1998.0
+ORD01389,2024-07-06,West,Clothing,Sports Shorts,2,449,20,718.4
+ORD01390,2024-04-06,North,Food & Beverage,Mixed Nuts,8,449,5,3412.4
+ORD01391,2024-06-06,South,Clothing,Cotton T-Shirt,8,349,0,2792.0
+ORD01392,2024-05-18,South,Home & Kitchen,Water Bottle,3,349,5,994.65
+ORD01393,2024-07-26,South,Clothing,Cotton T-Shirt,4,349,20,1116.8
+ORD01394,2024-05-01,West,Electronics,USB Hub,1,599,0,599.0
+ORD01395,2024-09-23,East,Electronics,Wireless Earbuds,8,1299,20,8313.6
+ORD01396,2024-10-12,South,Home & Kitchen,Coffee Mug Set,3,549,5,1564.65
+ORD01397,2024-07-15,West,Electronics,Wireless Earbuds,8,1299,0,10392.0
+ORD01398,2024-07-26,East,Electronics,USB Hub,6,599,0,3594.0
+ORD01399,2024-08-14,East,Clothing,Sports Shorts,1,449,0,449.0
+ORD01400,2024-12-03,East,Clothing,Cotton T-Shirt,5,349,20,1396.0
+ORD01401,2024-02-24,West,Home & Kitchen,Coffee Mug Set,6,549,0,3294.0
+ORD01402,2024-08-22,East,Electronics,Smart Watch,3,2999,15,7647.45
+ORD01403,2024-03-13,East,Food & Beverage,Mixed Nuts,5,449,5,2132.75
+ORD01404,2024-09-25,West,Electronics,Smart Watch,4,2999,15,10196.6
+ORD01405,2024-09-14,South,Home & Kitchen,Coffee Mug Set,7,549,10,3458.7
+ORD01406,2024-01-27,East,Food & Beverage,Mixed Nuts,2,449,10,808.2
+ORD01407,2024-06-22,North,Electronics,USB Hub,4,599,0,2396.0
+ORD01408,2024-04-02,West,Electronics,USB Hub,8,599,15,4073.2
+ORD01409,2024-06-11,East,Electronics,Webcam,1,1899,0,1899.0
+ORD01410,2024-01-14,East,Clothing,Cotton T-Shirt,4,349,15,1186.6
+ORD01411,2024-05-23,East,Home & Kitchen,Non-Stick Pan,5,899,15,3820.75
+ORD01412,2024-12-04,South,Clothing,Denim Jeans,6,999,0,5994.0
+ORD01413,2024-03-04,East,Food & Beverage,Green Tea Pack,4,199,0,796.0
+ORD01414,2024-04-06,South,Clothing,Denim Jeans,4,999,20,3196.8
+ORD01415,2024-03-08,South,Clothing,Cotton T-Shirt,8,349,0,2792.0
+ORD01416,2024-02-11,West,Clothing,Denim Jeans,5,999,0,4995.0
+ORD01417,2024-09-13,East,Food & Beverage,Mixed Nuts,5,449,0,2245.0
+ORD01418,2024-01-30,North,Food & Beverage,Instant Coffee,4,349,5,1326.2
+ORD01419,2024-12-04,North,Clothing,Hoodie,1,799,5,759.05
+ORD01420,2024-08-19,North,Home & Kitchen,Water Bottle,2,349,10,628.2
+ORD01421,2024-02-25,West,Home & Kitchen,Water Bottle,5,349,0,1745.0
+ORD01422,2024-03-01,West,Electronics,Portable Charger,8,799,15,5433.2
+ORD01423,2024-09-16,East,Electronics,Webcam,4,1899,10,6836.4
+ORD01424,2024-08-21,North,Home & Kitchen,Chopping Board,3,249,0,747.0
+ORD01425,2024-10-17,East,Food & Beverage,Mixed Nuts,1,449,0,449.0
+ORD01426,2024-09-28,East,Electronics,Portable Charger,6,799,10,4314.6
+ORD01427,2024-02-10,South,Food & Beverage,Protein Bar Box,5,599,20,2396.0
+ORD01428,2024-07-26,North,Electronics,Webcam,3,1899,0,5697.0
+ORD01429,2024-04-01,South,Food & Beverage,Protein Bar Box,7,599,5,3983.35
+ORD01430,2024-02-01,West,Home & Kitchen,Storage Box Set,5,699,5,3320.25
+ORD01431,2024-02-05,East,Food & Beverage,Energy Drink Pack,3,299,0,897.0
+ORD01432,2024-11-05,West,Home & Kitchen,Storage Box Set,3,699,10,1887.3
+ORD01433,2024-10-29,North,Home & Kitchen,Coffee Mug Set,4,549,20,1756.8
+ORD01434,2024-04-19,North,Clothing,Cotton T-Shirt,1,349,15,296.65
+ORD01435,2024-11-06,West,Electronics,Wireless Earbuds,1,1299,0,1299.0
+ORD01436,2024-01-20,North,Electronics,Wireless Earbuds,8,1299,5,9872.4
+ORD01437,2024-06-14,West,Electronics,Smart Watch,2,2999,10,5398.2
+ORD01438,2024-02-16,East,Clothing,Denim Jeans,4,999,0,3996.0
+ORD01439,2024-09-26,East,Clothing,Sports Shorts,5,449,15,1908.25
+ORD01440,2024-12-15,West,Electronics,USB Hub,1,599,0,599.0
+ORD01441,2024-03-26,West,Home & Kitchen,Water Bottle,1,349,20,279.2
+ORD01442,2024-04-12,East,Home & Kitchen,Water Bottle,5,349,20,1396.0
+ORD01443,2024-03-24,East,Home & Kitchen,Coffee Mug Set,5,549,20,2196.0
+ORD01444,2024-04-13,North,Clothing,Denim Jeans,1,999,15,849.15
+ORD01445,2024-11-07,West,Clothing,Sports Shorts,4,449,20,1436.8
+ORD01446,2024-01-11,West,Electronics,Wireless Earbuds,8,1299,5,9872.4
+ORD01447,2024-02-04,North,Clothing,Cotton T-Shirt,5,349,5,1657.75
+ORD01448,2024-08-11,West,Electronics,Wireless Earbuds,7,1299,10,8183.7
+ORD01449,2024-03-30,West,Home & Kitchen,Chopping Board,8,249,5,1892.4
+ORD01450,2024-07-17,West,Clothing,Sports Shorts,1,449,15,381.65
+ORD01451,2024-08-21,West,Food & Beverage,Green Tea Pack,5,199,0,995.0
+ORD01452,2024-03-29,East,Electronics,Wireless Earbuds,6,1299,10,7014.6
+ORD01453,2024-05-30,East,Electronics,Portable Charger,8,799,10,5752.8
+ORD01454,2024-10-15,West,Food & Beverage,Protein Bar Box,1,599,0,599.0
+ORD01455,2024-02-14,West,Clothing,Formal Shirt,3,699,15,1782.45
+ORD01456,2024-09-10,South,Home & Kitchen,Storage Box Set,1,699,0,699.0
+ORD01457,2024-01-24,South,Clothing,Cotton T-Shirt,3,349,0,1047.0
+ORD01458,2024-05-25,East,Home & Kitchen,Chopping Board,3,249,0,747.0
+ORD01459,2024-12-03,East,Clothing,Hoodie,2,799,0,1598.0
+ORD01460,2024-06-11,North,Electronics,Webcam,1,1899,5,1804.05
+ORD01461,2024-05-08,South,Electronics,Webcam,8,1899,0,15192.0
+ORD01462,2024-10-04,West,Electronics,Wireless Earbuds,8,1299,15,8833.2
+ORD01463,2024-08-19,South,Clothing,Sports Shorts,5,449,15,1908.25
+ORD01464,2024-06-11,West,Food & Beverage,Protein Bar Box,7,599,0,4193.0
+ORD01465,2024-09-14,West,Food & Beverage,Instant Coffee,5,349,0,1745.0
+ORD01466,2024-05-08,North,Clothing,Denim Jeans,6,999,10,5394.6
+ORD01467,2024-09-17,South,Food & Beverage,Protein Bar Box,3,599,5,1707.15
+ORD01468,2024-07-21,West,Food & Beverage,Protein Bar Box,1,599,5,569.05
+ORD01469,2024-10-22,West,Home & Kitchen,Storage Box Set,2,699,10,1258.2
+ORD01470,2024-01-10,East,Home & Kitchen,Water Bottle,2,349,0,698.0
+ORD01471,2024-06-13,North,Food & Beverage,Energy Drink Pack,6,299,20,1435.2
+ORD01472,2024-10-22,West,Home & Kitchen,Coffee Mug Set,6,549,20,2635.2
+ORD01473,2024-10-03,North,Electronics,Portable Charger,1,799,0,799.0
+ORD01474,2024-06-24,South,Electronics,Wireless Earbuds,5,1299,10,5845.5
+ORD01475,2024-07-30,East,Food & Beverage,Mixed Nuts,4,449,0,1796.0
+ORD01476,2024-07-22,East,Clothing,Cotton T-Shirt,4,349,0,1396.0
+ORD01477,2024-10-25,East,Home & Kitchen,Coffee Mug Set,2,549,0,1098.0
+ORD01478,2024-11-06,East,Home & Kitchen,Storage Box Set,8,699,20,4473.6
+ORD01479,2024-03-21,North,Electronics,Webcam,8,1899,20,12153.6
+ORD01480,2024-07-19,West,Food & Beverage,Mixed Nuts,4,449,20,1436.8
+ORD01481,2024-04-07,South,Clothing,Denim Jeans,1,999,15,849.15
+ORD01482,2024-06-25,North,Home & Kitchen,Water Bottle,8,349,0,2792.0
+ORD01483,2024-09-20,North,Clothing,Sports Shorts,4,449,10,1616.4
+ORD01484,2024-12-29,North,Home & Kitchen,Non-Stick Pan,1,899,10,809.1
+ORD01485,2024-03-21,West,Food & Beverage,Instant Coffee,8,349,0,2792.0
+ORD01486,2024-08-09,South,Home & Kitchen,Coffee Mug Set,7,549,10,3458.7
+ORD01487,2024-05-19,West,Home & Kitchen,Coffee Mug Set,8,549,0,4392.0
+ORD01488,2024-10-24,North,Clothing,Sports Shorts,6,449,5,2559.3
+ORD01489,2024-12-23,East,Clothing,Hoodie,1,799,20,639.2
+ORD01490,2024-03-31,North,Electronics,USB Hub,6,599,15,3054.9
+ORD01491,2024-05-21,West,Clothing,Sports Shorts,7,449,20,2514.4
+ORD01492,2024-11-03,South,Home & Kitchen,Coffee Mug Set,6,549,0,3294.0
+ORD01493,2024-11-24,North,Home & Kitchen,Non-Stick Pan,7,899,20,5034.4
+ORD01494,2024-03-26,East,Electronics,Webcam,7,1899,15,11299.05
+ORD01495,2024-04-09,North,Electronics,Wireless Earbuds,4,1299,20,4156.8
+ORD01496,2024-11-26,West,Electronics,Portable Charger,7,799,0,5593.0
+ORD01497,2024-12-15,North,Clothing,Denim Jeans,1,999,15,849.15
+ORD01498,2024-03-07,East,Electronics,Webcam,4,1899,5,7216.2
+ORD01499,2024-09-18,North,Food & Beverage,Protein Bar Box,7,599,0,4193.0
