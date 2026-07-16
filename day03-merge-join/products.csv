@@ -1,0 +1,17 @@
+product_id,product_name,category,unit_price
+PROD001,Wireless Earbuds,Electronics,1299
+PROD002,Smart Watch,Electronics,2999
+PROD003,USB Hub,Electronics,599
+PROD004,Webcam,Electronics,1899
+PROD005,Cotton T-Shirt,Clothing,349
+PROD006,Denim Jeans,Clothing,999
+PROD007,Hoodie,Clothing,799
+PROD008,Formal Shirt,Clothing,699
+PROD009,Green Tea Pack,Food & Beverage,199
+PROD010,Protein Bar Box,Food & Beverage,599
+PROD011,Instant Coffee,Food & Beverage,349
+PROD012,Mixed Nuts,Food & Beverage,449
+PROD013,Non-Stick Pan,Home & Kitchen,899
+PROD014,Water Bottle,Home & Kitchen,349
+PROD015,Coffee Mug Set,Home & Kitchen,549
+PROD016,Chopping Board,Home & Kitchen,249
