@@ -1,0 +1,193 @@
+region,category,month,revenue
+East,Clothing,Jan,185696.39
+East,Clothing,Feb,223364.69
+East,Clothing,Mar,250761.1
+East,Clothing,Apr,260981.98
+East,Clothing,May,198229.27
+East,Clothing,Jun,227281.42
+East,Clothing,Jul,184867.7
+East,Clothing,Aug,179444.0
+East,Clothing,Sep,120394.37
+East,Clothing,Oct,122023.56
+East,Clothing,Nov,151944.3
+East,Clothing,Dec,133937.14
+East,Electronics,Jan,43033.26
+East,Electronics,Feb,54112.94
+East,Electronics,Mar,67530.33
+East,Electronics,Apr,64157.42
+East,Electronics,May,60264.83
+East,Electronics,Jun,53146.87
+East,Electronics,Jul,47744.73
+East,Electronics,Aug,41323.58
+East,Electronics,Sep,33307.92
+East,Electronics,Oct,37290.71
+East,Electronics,Nov,37550.56
+East,Electronics,Dec,47604.93
+East,Food & Beverage,Jan,163439.66
+East,Food & Beverage,Feb,188131.06
+East,Food & Beverage,Mar,169491.53
+East,Food & Beverage,Apr,189792.53
+East,Food & Beverage,May,192379.75
+East,Food & Beverage,Jun,170702.06
+East,Food & Beverage,Jul,134304.59
+East,Food & Beverage,Aug,126597.23
+East,Food & Beverage,Sep,109245.23
+East,Food & Beverage,Oct,115829.25
+East,Food & Beverage,Nov,100767.23
+East,Food & Beverage,Dec,117051.86
+East,Home & Kitchen,Jan,148632.21
+East,Home & Kitchen,Feb,180182.84
+East,Home & Kitchen,Mar,192580.44
+East,Home & Kitchen,Apr,234439.45
+East,Home & Kitchen,May,196326.15
+East,Home & Kitchen,Jun,172180.28
+East,Home & Kitchen,Jul,154936.18
+East,Home & Kitchen,Aug,120656.12
+East,Home & Kitchen,Sep,119037.55
+East,Home & Kitchen,Oct,117364.2
+East,Home & Kitchen,Nov,130200.14
+East,Home & Kitchen,Dec,145357.36
+North,Clothing,Jan,58219.1
+North,Clothing,Feb,79322.48
+North,Clothing,Mar,78762.23
+North,Clothing,Apr,84095.92
+North,Clothing,May,70020.27
+North,Clothing,Jun,73550.61
+North,Clothing,Jul,54996.8
+North,Clothing,Aug,59737.04
+North,Clothing,Sep,42567.74
+North,Clothing,Oct,42337.93
+North,Clothing,Nov,52782.12
+North,Clothing,Dec,59718.37
+North,Electronics,Jan,62802.78
+North,Electronics,Feb,63360.43
+North,Electronics,Mar,83850.99
+North,Electronics,Apr,75440.78
+North,Electronics,May,75820.65
+North,Electronics,Jun,68340.46
+North,Electronics,Jul,67559.96
+North,Electronics,Aug,50930.84
+North,Electronics,Sep,53379.62
+North,Electronics,Oct,40940.99
+North,Electronics,Nov,49318.39
+North,Electronics,Dec,59366.17
+North,Food & Beverage,Jan,80964.44
+North,Food & Beverage,Feb,106038.11
+North,Food & Beverage,Mar,102352.15
+North,Food & Beverage,Apr,106102.48
+North,Food & Beverage,May,100466.46
+North,Food & Beverage,Jun,94797.87
+North,Food & Beverage,Jul,89281.42
+North,Food & Beverage,Aug,83721.2
+North,Food & Beverage,Sep,76849.39
+North,Food & Beverage,Oct,69145.32
+North,Food & Beverage,Nov,64522.5
+North,Food & Beverage,Dec,77286.47
+North,Home & Kitchen,Jan,88576.34
+North,Home & Kitchen,Feb,83510.52
+North,Home & Kitchen,Mar,116988.98
+North,Home & Kitchen,Apr,115635.33
+North,Home & Kitchen,May,115438.59
+North,Home & Kitchen,Jun,101837.94
+North,Home & Kitchen,Jul,88234.83
+North,Home & Kitchen,Aug,79941.99
+North,Home & Kitchen,Sep,68718.81
+North,Home & Kitchen,Oct,51225.46
+North,Home & Kitchen,Nov,60854.05
+North,Home & Kitchen,Dec,70651.28
+South,Clothing,Jan,159373.87
+South,Clothing,Feb,156564.0
+South,Clothing,Mar,207052.54
+South,Clothing,Apr,213106.48
+South,Clothing,May,157535.89
+South,Clothing,Jun,186091.49
+South,Clothing,Jul,154003.14
+South,Clothing,Aug,107104.54
+South,Clothing,Sep,102080.63
+South,Clothing,Oct,104381.08
+South,Clothing,Nov,111343.4
+South,Clothing,Dec,131096.93
+South,Electronics,Jan,141843.75
+South,Electronics,Feb,159889.97
+South,Electronics,Mar,211876.4
+South,Electronics,Apr,230504.38
+South,Electronics,May,226236.19
+South,Electronics,Jun,211364.97
+South,Electronics,Jul,165516.19
+South,Electronics,Aug,143866.37
+South,Electronics,Sep,114658.94
+South,Electronics,Oct,104225.98
+South,Electronics,Nov,120649.2
+South,Electronics,Dec,152340.12
+South,Food & Beverage,Jan,212081.69
+South,Food & Beverage,Feb,244422.38
+South,Food & Beverage,Mar,220170.48
+South,Food & Beverage,Apr,256904.62
+South,Food & Beverage,May,276882.64
+South,Food & Beverage,Jun,194789.06
+South,Food & Beverage,Jul,179161.77
+South,Food & Beverage,Aug,148741.95
+South,Food & Beverage,Sep,162089.22
+South,Food & Beverage,Oct,119822.91
+South,Food & Beverage,Nov,146530.76
+South,Food & Beverage,Dec,168453.46
+South,Home & Kitchen,Jan,129910.84
+South,Home & Kitchen,Feb,155720.17
+South,Home & Kitchen,Mar,175532.14
+South,Home & Kitchen,Apr,150164.32
+South,Home & Kitchen,May,141740.51
+South,Home & Kitchen,Jun,130746.32
+South,Home & Kitchen,Jul,125152.99
+South,Home & Kitchen,Aug,121458.77
+South,Home & Kitchen,Sep,80877.6
+South,Home & Kitchen,Oct,80403.45
+South,Home & Kitchen,Nov,101277.67
+South,Home & Kitchen,Dec,115963.41
+West,Clothing,Jan,192399.83
+West,Clothing,Feb,233029.55
+West,Clothing,Mar,243179.25
+West,Clothing,Apr,241043.61
+West,Clothing,May,259091.31
+West,Clothing,Jun,233444.29
+West,Clothing,Jul,173803.99
+West,Clothing,Aug,185688.75
+West,Clothing,Sep,153397.68
+West,Clothing,Oct,113776.03
+West,Clothing,Nov,143748.84
+West,Clothing,Dec,174972.32
+West,Electronics,Jan,60983.61
+West,Electronics,Feb,69074.03
+West,Electronics,Mar,76054.95
+West,Electronics,Apr,89119.79
+West,Electronics,May,84917.79
+West,Electronics,Jun,77606.81
+West,Electronics,Jul,62607.26
+West,Electronics,Aug,63810.16
+West,Electronics,Sep,44729.61
+West,Electronics,Oct,47851.33
+West,Electronics,Nov,57440.96
+West,Electronics,Dec,50957.33
+West,Food & Beverage,Jan,75556.71
+West,Food & Beverage,Feb,87382.74
+West,Food & Beverage,Mar,109671.17
+West,Food & Beverage,Apr,101479.02
+West,Food & Beverage,May,109561.22
+West,Food & Beverage,Jun,108690.37
+West,Food & Beverage,Jul,78853.29
+West,Food & Beverage,Aug,80382.44
+West,Food & Beverage,Sep,66366.94
+West,Food & Beverage,Oct,68081.26
+West,Food & Beverage,Nov,71989.84
+West,Food & Beverage,Dec,73808.34
+West,Home & Kitchen,Jan,167890.68
+West,Home & Kitchen,Feb,160459.41
+West,Home & Kitchen,Mar,206469.66
+West,Home & Kitchen,Apr,170405.36
+West,Home & Kitchen,May,196971.01
+West,Home & Kitchen,Jun,180869.64
+West,Home & Kitchen,Jul,151498.77
+West,Home & Kitchen,Aug,139790.22
+West,Home & Kitchen,Sep,108431.58
+West,Home & Kitchen,Oct,89534.79
+West,Home & Kitchen,Nov,104519.12
+West,Home & Kitchen,Dec,130947.94
